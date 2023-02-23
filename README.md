@@ -23,3 +23,8 @@ Desenvolvido com curso HTML e CSS Alura
 Curso da formação INICIANTE EM PROGRAMAÇÃO, 1ª projeto curso HTML e CSS ambientes
 de desenvolvimento , estrutura de arquivos e tags. 
 
+dia 23/02 finalizado segundo curso e feito update de novo arquivo no Github 
+a contino o treinamento para o 3º curso da formação que estou atulizando: 
+Iniciante em Programação;
+
+
