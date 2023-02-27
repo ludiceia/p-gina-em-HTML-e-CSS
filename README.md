@@ -27,4 +27,6 @@ dia 23/02 finalizado segundo curso e feito update de novo arquivo no Github
 a contino o treinamento para o 3º curso da formação que estou atulizando: 
 Iniciante em Programação;
 
+Atualização do projeto após o segundo curso.
+Concluído o segundo curso de CSS, realizado então a atualização do código, demonstrando aqui a evolução da página, utilizando variáveis no CSS, inclusão de uma nova página e outras formatações no código.
 
