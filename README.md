@@ -12,7 +12,7 @@ de desenvolvimento , estrutura de arquivos e tags.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+!https://github.com/ludiceia/p-gina-em-HTML-e-CSS/blob/main/imagem%20do%20meu%20projeto.png
 
 ## Detalhes do projeto
 
